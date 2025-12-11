@@ -317,12 +317,12 @@ end
 
 ### Week 1: Environment Setup
 **Tasks:**
-- [ ] Set up kdb+ development environment
-- [ ] Install and configure kdb+ tick components
-- [ ] Create basic Phoenix application skeleton
-- [ ] Set up development database (PostgreSQL)
-- [ ] Configure Docker development environment
-- [ ] Set up version control and CI/CD basics
+- [x] Set up kdb+ development environment
+- [x] Install and configure kdb+ tick components
+- [x] Create basic Phoenix application skeleton
+- [x] Set up development database (PostgreSQL)
+- [x] Configure Docker development environment
+- [x] Set up version control and CI/CD basics
 
 **Deliverables:**
 - Running kdb+ tick, RDB, HDB
